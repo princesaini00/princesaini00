@@ -77,7 +77,7 @@ A Passionate Full Stack Web Developer From India :) <br />
   <hr />
   
 <div align="center">
-  <img src="https://www.flaticon.com/free-icons/agreement" alt="Handshake🤝" style="width:18em;" />
+  <img src="./githubImages/handshake.png" alt="Handshake🤝" style="width:8em;" />
 </div>
 
 <div align="center"> 
