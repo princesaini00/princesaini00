@@ -3,7 +3,7 @@
 
 <div align="center">
    
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display+SC&size=30&pause=1000&width=500&color=FFFFFF&duration=3000&lines=Hello+Geeks%2C+Prince+Here+👋🧑‍💻;I'm+a+Full+Stack+Web+Developer." alt="Hi, I'm Prince👋🧑‍💻" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display+SC&size=30&pause=1000&width=500&color=0492C2&duration=3000&lines=Hello+Geeks%2C+Prince+Here+👋🧑‍💻;I'm+a+Full+Stack+Web+Developer." alt="Hi, I'm Prince👋🧑‍💻" />
  
 <!-- Connect To Me   -->
 <a href="https://twitter.com/princesaini_00"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
@@ -14,7 +14,7 @@
 <hr />
 
 <!-- ABOUT ME SECTION -->
-<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="A Coder Boy 🧑‍💻" style="width:18em;" />
+<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="A Coder Boy 🧑‍💻" style="width:18rem;" />
 
 <h2><strong>ABOUT ME</strong></h2>
   
@@ -56,7 +56,7 @@ A Passionate Full Stack Web Developer From India :) <br />
 <!-- MY STATS SECTION -->
 <img src="./githubImages/web-design.png" alt="Stats 🔥" style="width:8em;"/>
 <h2><strong>MY STATS</strong></h2>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princesaini00&theme=tokyonight" alt="princesaini00" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princesaini00&theme=tokyonight" alt="princesaini00" /><br /><br />
 
 [![Prince's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=princesaini00&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
@@ -66,8 +66,8 @@ A Passionate Full Stack Web Developer From India :) <br />
 <img src="./githubImages/handshake.png" alt="Handshake🤝" style="width:8em;" />
  
 <h2><strong>CONNECT WITH ME</strong></h2>
-<a href="https://twitter.com/theAlphaCoder06"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>&emsp;&emsp;&emsp;&emsp;&emsp;
-<a href="https://www.linkedin.com/in/thealphacoder/"><img src="https://img.shields.io/badge/LinkedIn-yellow?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>&emsp;&emsp;&emsp;&emsp;&emsp;
+<a href="https://twitter.com/theAlphaCoder06"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+<a href="https://www.linkedin.com/in/thealphacoder/"><img src="https://img.shields.io/badge/LinkedIn-yellow?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="https://instagram.com/mundra.prince"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" /></a>
   
 </div>
