@@ -57,8 +57,6 @@ A Passionate Full Stack Web Developer From India :) <br />
 <img src="./githubImages/web-design.png" alt="Stats 🔥" style="width:8em;"/>
 <h2><strong>MY STATS</strong></h2>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princesaini00&theme=tokyonight" alt="princesaini00" /><br /><br />
-
-[![Prince's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=princesaini00&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <hr />
   
