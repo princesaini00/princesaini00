@@ -3,7 +3,7 @@
 
 <div align="center">
    
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display+SC&size=30&pause=1000&width=500&color=0492C2&duration=3000&lines=Hello+Geeks%2C+Prince+Here+👋🧑‍💻;I'm+a+Java+Software+Developer ^_^" alt="Hi, I'm Prince👋🧑‍💻" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display+SC&size=30&pause=1000&width=500&color=0492C2&duration=3000&lines=Hello+Geeks%2C+Prince+Here+👋🧑‍💻;I'm+a+Java+Software+Developer✈️" alt="Hi, I'm Prince👋🧑‍💻" />
  
 <!-- Connect To Me   -->
 <a href="https://twitter.com/princesaini_00"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
