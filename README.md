@@ -60,10 +60,6 @@ A highly analytical and performance-driven **Backend Engineer** from India, spec
 <!-- MY STATS SECTION -->
 <img src="./githubImages/web-design.png" alt="Stats 🔥" style="width:8em;"/>
 <h2><strong>MY STATS</strong></h2>
-### 📊 GitHub Stats
-
-![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=gotham)
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=princesaini00&layout=compact&theme=gotham)
