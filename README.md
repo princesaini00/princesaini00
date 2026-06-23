@@ -8,8 +8,7 @@
 <!-- Connect To Me   -->
 <a href="https://twitter.com/princesaini_00"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 <a href="https://www.linkedin.com/in/princesaini00/"><img src="https://img.shields.io/badge/LinkedIn-applegreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-
-<p> Visitor's Count<br><img src="https://profile-counter.glitch.me/princesaini00/count.svg" /></p>
+<a href="https://leetcode.com/u/princesaini7963/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/></a>
 
 <hr />
 
