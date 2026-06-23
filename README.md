@@ -17,15 +17,43 @@
 
 <h2><strong>ABOUT ME</strong></h2>
   
-A Passionate Full Stack Web Developer From India :) <br />
+# Hi, I'm Prince Saini 👋
 
-🔭 I’m currently working on my skills and practicing more problems related to development.🧑‍💻
+A highly analytical and performance-driven **Backend Engineer** from India, specializing in Java, Spring Boot, and robust distributed systems. Currently parsing complex engineering problems and building high-scale applications.
 
-👯 I’m looking to collaborate on open source projects to get more practical knowledge of things.🤯
+---
 
-🤝 I’m looking for help with my journey as a developer, hoping to meet genius minds.🤝
+### 🚀 What I'm Up To
+* 🔭 **Currently Building:** A high-concurrency Event Ticket Booking System using Spring Boot, Redis, and PostgreSQL locking mechanisms.
+* 🧠 **Problem Solving:** Actively optimizing algorithms—solved **500+ LeetCode problems** spanning Graphs, DP, and Trees.
+* 👯 **Open Source Collaboration:** Looking to contribute to core backend, cloud-native toolings, and Java/Spring ecosystems.
+* 🤝 **Networking:** Eager to connect with senior engineers, architects, and mentors pushing the boundaries of system design.
 
-📫 Reach me on princesaini7963@gmail.com 
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Languages** | Java, Python, C/C++ |
+| **Backend & Frameworks** | Spring Boot, Spring MVC, Spring Security, JPA / Hibernate, REST APIs |
+| **Databases & Caching** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Testing & DevOps** | JUnit 5, Mockito, Testcontainers, Docker, Git/GitHub, Maven |
+| **Core CS Foundations** | Data Structures & Algorithms, System Design, DBMS, Computer Networks |
+
+---
+
+### 📊 GitHub Stats
+
+![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=gotham)
+
+---
+
+### 📬 Let's Connect!
+* **Email:** princesaini7963@gmail.com
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* **LeetCode:** [leetcode.com/your-profile](https://leetcode.com/your-profile)
 
 <hr /> 
 
